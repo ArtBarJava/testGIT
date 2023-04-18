@@ -1,0 +1,7 @@
+String
+new string
+it is ok)
+<<<<<<< HEAD
+Hello, word!!!)
+=======
+>>>>>>> new-api
